@@ -1,0 +1,54 @@
+p {
+  font-size: 0.6em;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.header-right {
+  text-align: right;
+}
+
+.category {
+  color: white;
+  background: rgb(32, 42, 99);
+  text-align: center;
+}
+
+.skills-list {
+  columns: 3;
+}
+
+.role-left {
+  float: left;
+}
+.role-right {
+  float: right;
+}
+
+.role-wrapper {
+  overflow: hidden;
+}
+
+.edu-left {
+  float: left;
+}
+
+.edu-right {
+  float: right;
+}
+
+.edu-wrapper {
+  overflow: hidden;
+}
+
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 32px;
+  border: 1px solid black;
+  /* just making this grey so that I can see what the padding is doing */
+  /*background: grey;*/
+  /*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);*/
+}
